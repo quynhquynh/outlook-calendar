@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.outlookcalendar"
+    android:versionCode="1"
+    android:versionName="1.0" >
+    <!--
+Intent filter to capture authorization code response from the default browser on the
+           device calling back to the app after interactive sign in
+    -->
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="26" />
+
+    <application>
+        <activity android:name="com.microsoft.identity.client.BrowserTabActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="com.outlookcalendar"
+                    android:path="/callback"
+                    android:scheme="msauth" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

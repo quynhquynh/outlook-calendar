@@ -1,0 +1,65 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/qle/Documents/mobile-client/node_modules/outlook-calendar/android/src/main/AndroidManifest.xml:1:1-21:12
+INJECTED from /Users/qle/Documents/mobile-client/node_modules/outlook-calendar/android/src/main/AndroidManifest.xml:1:1-21:12
+INJECTED from /Users/qle/Documents/mobile-client/node_modules/outlook-calendar/android/src/main/AndroidManifest.xml:1:1-21:12
+INJECTED from /Users/qle/Documents/mobile-client/node_modules/outlook-calendar/android/src/main/AndroidManifest.xml:1:1-21:12
+INJECTED from /Users/qle/Documents/mobile-client/node_modules/outlook-calendar/android/src/main/AndroidManifest.xml:1:1-21:12
+INJECTED from /Users/qle/Documents/mobile-client/node_modules/outlook-calendar/android/src/main/AndroidManifest.xml:1:1-21:12
+INJECTED from /Users/qle/Documents/mobile-client/node_modules/outlook-calendar/android/src/main/AndroidManifest.xml:1:1-21:12
+	package
+		ADDED from /Users/qle/Documents/mobile-client/node_modules/outlook-calendar/android/src/main/AndroidManifest.xml:2:5-34
+		INJECTED from /Users/qle/Documents/mobile-client/node_modules/outlook-calendar/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/qle/Documents/mobile-client/node_modules/outlook-calendar/android/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/qle/Documents/mobile-client/node_modules/outlook-calendar/android/src/main/AndroidManifest.xml
+		ADDED from /Users/qle/Documents/mobile-client/node_modules/outlook-calendar/android/src/main/AndroidManifest.xml:1:1-21:12
+		INJECTED from /Users/qle/Documents/mobile-client/node_modules/outlook-calendar/android/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/qle/Documents/mobile-client/node_modules/outlook-calendar/android/src/main/AndroidManifest.xml
+		ADDED from /Users/qle/Documents/mobile-client/node_modules/outlook-calendar/android/src/main/AndroidManifest.xml:1:1-21:12
+		INJECTED from /Users/qle/Documents/mobile-client/node_modules/outlook-calendar/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/qle/Documents/mobile-client/node_modules/outlook-calendar/android/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/qle/Documents/mobile-client/node_modules/outlook-calendar/android/src/main/AndroidManifest.xml:4:5-18:19
+activity#com.microsoft.identity.client.BrowserTabActivity
+ADDED from /Users/qle/Documents/mobile-client/node_modules/outlook-calendar/android/src/main/AndroidManifest.xml:5:9-17:20
+	android:name
+		ADDED from /Users/qle/Documents/mobile-client/node_modules/outlook-calendar/android/src/main/AndroidManifest.xml:5:19-82
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:com.outlookcalendar+data:path:/callback+data:scheme:msauth
+ADDED from /Users/qle/Documents/mobile-client/node_modules/outlook-calendar/android/src/main/AndroidManifest.xml:6:13-16:29
+action#android.intent.action.VIEW
+ADDED from /Users/qle/Documents/mobile-client/node_modules/outlook-calendar/android/src/main/AndroidManifest.xml:7:17-69
+	android:name
+		ADDED from /Users/qle/Documents/mobile-client/node_modules/outlook-calendar/android/src/main/AndroidManifest.xml:7:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/qle/Documents/mobile-client/node_modules/outlook-calendar/android/src/main/AndroidManifest.xml:9:17-76
+	android:name
+		ADDED from /Users/qle/Documents/mobile-client/node_modules/outlook-calendar/android/src/main/AndroidManifest.xml:9:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/qle/Documents/mobile-client/node_modules/outlook-calendar/android/src/main/AndroidManifest.xml:10:17-78
+	android:name
+		ADDED from /Users/qle/Documents/mobile-client/node_modules/outlook-calendar/android/src/main/AndroidManifest.xml:10:27-75
+data
+ADDED from /Users/qle/Documents/mobile-client/node_modules/outlook-calendar/android/src/main/AndroidManifest.xml:12:17-15:47
+	android:path
+		ADDED from /Users/qle/Documents/mobile-client/node_modules/outlook-calendar/android/src/main/AndroidManifest.xml:14:21-45
+	android:host
+		ADDED from /Users/qle/Documents/mobile-client/node_modules/outlook-calendar/android/src/main/AndroidManifest.xml:13:21-55
+	android:scheme
+		ADDED from /Users/qle/Documents/mobile-client/node_modules/outlook-calendar/android/src/main/AndroidManifest.xml:15:21-44
+uses-sdk
+INJECTED from /Users/qle/Documents/mobile-client/node_modules/outlook-calendar/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/qle/Documents/mobile-client/node_modules/outlook-calendar/android/src/main/AndroidManifest.xml
+INJECTED from /Users/qle/Documents/mobile-client/node_modules/outlook-calendar/android/src/main/AndroidManifest.xml
+INJECTED from /Users/qle/Documents/mobile-client/node_modules/outlook-calendar/android/src/main/AndroidManifest.xml
+INJECTED from /Users/qle/Documents/mobile-client/node_modules/outlook-calendar/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/qle/Documents/mobile-client/node_modules/outlook-calendar/android/src/main/AndroidManifest.xml
+		ADDED from /Users/qle/Documents/mobile-client/node_modules/outlook-calendar/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/qle/Documents/mobile-client/node_modules/outlook-calendar/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/qle/Documents/mobile-client/node_modules/outlook-calendar/android/src/main/AndroidManifest.xml
+		ADDED from /Users/qle/Documents/mobile-client/node_modules/outlook-calendar/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/qle/Documents/mobile-client/node_modules/outlook-calendar/android/src/main/AndroidManifest.xml

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5156b310-d5a8-4348-ac43-893ee22af543" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="resourceFile" />
+        <option value="valueResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jp1Pgwq9gMtu2aHUYDDPBq7ONx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.scopes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/res/drawable" />
+      <recent name="$PROJECT_DIR$/src/main" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5156b310-d5a8-4348-ac43-893ee22af543" name="Default Changelist" comment="" />
+      <created>1604486196458</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604486196458</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1650" y="530" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604486843120">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1650" y="530" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1440/-1680.0.1680.1050@0.0.2560.1440" timestamp="1604486843120" />
+    <state x="1513" y="482" key="AndroidCreateResourceFileDialog" timestamp="1604487578440">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1513" y="482" key="AndroidCreateResourceFileDialog/0.0.2560.1440/-1680.0.1680.1050@0.0.2560.1440" timestamp="1604487578440" />
+    <state x="1577" y="355" width="695" height="729" key="find.popup" timestamp="1604486608919">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1577" y="355" width="695" height="729" key="find.popup/0.0.2560.1440/-1680.0.1680.1050@0.0.2560.1440" timestamp="1604486608919" />
+  </component>
+</project>

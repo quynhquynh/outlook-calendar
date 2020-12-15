@@ -1,0 +1,15 @@
+{
+  "client_id": "a7fa00f4-e930-4782-bcab-749c056dec65",
+  "redirect_uri": "msauth://com.outlookcalendar/callback",
+  "broker_redirect_uri_registered": false,
+  "account_mode": "SINGLE",
+  "authorities": [
+    {
+      "type": "AAD",
+      "audience": {
+        "type": "AzureADandPersonalMicrosoftAccount"
+      },
+      "default": true
+    }
+  ]
+}
